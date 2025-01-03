@@ -68,6 +68,6 @@ Estou comprometido em utilizar minhas habilidades para contribuir com a missão 
 
 Feel free to explore my other projects and connect with me if you are interested in working together!
 
-📧 **Email:** [your.email@example.com]  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-🌐 **Portfolio Website:** [www.yourportfolio.com](#)
+📧 **Email:** edgardvictorlol@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/edgardvictorcf/(#)  
+🌐 **Portfolio Website:** (#)
