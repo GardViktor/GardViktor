@@ -35,37 +35,6 @@ I am committed to using my skills to protect individuals and organizations, prev
 
 ---
 
-## 🌐 **Sobre Mim - Edgard Victor**
-
-Sou um **entusiasta da segurança da informação**, com um profundo interesse em proteger organizações e indivíduos contra ameaças cibernéticas. Em **2025**, concluirei minha graduação em **Gestão da Tecnologia da Informação**, e minha meta é obter uma certificação relevante até o final deste ano, a fim de consolidar meus conhecimentos e habilidades na área de **cibersegurança**.
-
-Ao longo da minha trajetória, desenvolvi uma sólida base de conhecimento em ferramentas e técnicas de segurança, como:
-- **Linux**
-- **XSS** (Cross-Site Scripting)
-- **Python**
-- **Nmap**
-- **Wireshark**
-
-Além disso, tenho um forte **comprometimento com a ética** e a **proteção de dados confidenciais**.
-
-### 🔑 **Meus Pontos Fortes**
-- **Raciocínio lógico**
-- **Comunicação eficaz**
-- **Automação de processos**
-
-Essas habilidades são essenciais para um **pentester**, que busca antecipar, identificar e mitigar vulnerabilidades. Acredito que minha habilidade em analisar riscos e conduzir programas de treinamento e conscientização sobre melhores práticas de segurança cibernética contribuirá significativamente para a melhoria da postura de segurança de qualquer organização.
-
-### 💡 **Além da Técnica**
-Minha paixão pela **cibersegurança** vai além da técnica: busco constantemente entender o **jogo mental** envolvido na identificação e exploração de falhas de segurança, sempre com o objetivo de **prevenir danos** e **proteger dados sensíveis**.
-
-### 🤝 **Trabalho em Equipe**
-Valorizo o **trabalho em equipe** e acredito que, ao compartilhar conhecimento e colaborar com outros profissionais da área, podemos criar soluções mais robustas para enfrentar os desafios da **segurança digital**.
-
-### 🎯 **Missão**
-Estou comprometido em utilizar minhas habilidades para contribuir com a missão de **proteger pessoas e organizações**, impedindo crimes cibernéticos e promovendo uma cultura de **segurança contínua e eficaz**.
-
----
-
 Feel free to explore my other projects and connect with me if you are interested in working together!
 
 📧 **Email:** edgardvictorlol@gmail.com  
