@@ -1,4 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e5289e,100:f05138"/>
+
 Welcome to my GitHub! Below, you'll find my professional statement and an overview of my expertise in information security. I am passionate about protecting organizations and individuals from cyber threats, and I am always striving to enhance my skills in the cybersecurity field.
+
 
 Bem-vindo ao meu GitHub! Abaixo, você encontrará minha declaração profissional e uma visão geral da minha experiência em segurança da informação. Sou apaixonado por proteger organizações e indivíduos contra ameaças cibernéticas e estou sempre buscando aprimorar minhas habilidades na área de cibersegurança.
 
