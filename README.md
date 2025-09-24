@@ -21,15 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
 </div>
 
-<h3 align="center">Find me at</h3>
-<div align="center">
-  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/edgardvictorcf/)
-  <img width="3"/>
-  [![X](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/edy_cyber)
-  <img width="3"/>
-  [![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/mail/default.svg)](mailto:edgardvictorlol@gmail.com)
-</div>
-
 <br>
 
 ## 🛡️ About Me
@@ -55,8 +46,7 @@ I am committed to **ethical security practices** and constantly enhancing my kno
 
 ### 💻 GitHub Stats
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=edgardvictorcf&show_icons=true&count_private=true&theme=synthwave&hide_title=true"/>
-  <img height="165" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardvictorcf&layout=compact&theme=synthwave&langs_count=10"/>
+
 </div>
 
 ---
@@ -68,7 +58,7 @@ I constantly challenge myself to stay ahead of emerging threats while contributi
 ---
 
 <div align="center">
-  <img height=154 align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=edgardvictorcf&theme=synthwave"/>
+  <img height=154 align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=GardViktor&theme=synthwave"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f05138,100:e5289e&section=footer"/>
