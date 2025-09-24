@@ -23,16 +23,16 @@
 
 <h3 align="center">Pentesting Tools</h3>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Burp_Suite_Logo.png" height="40" alt="burpsuite logo"/>
-  <img width="5"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Wireshark_Logo.png" height="40" alt="wireshark logo"/>
-  <img width="5"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nmap_logo.svg" height="40" alt="nmap logo"/>
-  <img width="5"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/THC-Hydra-logo.svg" height="40" alt="hydra logo"/>
-  <img width="5"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Postman_logo.svg" height="40" alt="postman logo"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg" height="40" alt="burpsuite logo"/>
+  <img width="3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="wireshark logo"/>
+  <img width="3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="40" alt="nmap logo"/>
+  <img width="3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hydra/hydra-original.svg" height="40" alt="hydra logo"/>
+  <img width="3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+  <img width="3"/>
 </div>
 
 <br>
