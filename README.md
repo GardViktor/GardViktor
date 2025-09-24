@@ -21,20 +21,6 @@
   
 </div>
 
-<h3 align="center">Pentesting Tools</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg" height="40" alt="burpsuite logo"/>
-  <img width="3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="wireshark logo"/>
-  <img width="3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="40" alt="nmap logo"/>
-  <img width="3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hydra/hydra-original.svg" height="40" alt="hydra logo"/>
-  <img width="3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
-  <img width="3"/>
-</div>
-
 <br>
 
 ## 🛡️ About Me
