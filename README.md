@@ -2,16 +2,20 @@
 
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5289E&background=6A5BFF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub%21;I%27m+Edgard+Victor;Pentester+%26+Web3+Developer;In+the+long+run%2C+I+don%27t+lose." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5289E&background=6A5BFF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub%21;I'm+Edgard+Victor;Backend+Java+Developer;Spring+Boot+%26+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 # 💫 About Me:
-I have over 4 years of experience in finance, handling tax audits, ERP cost center management, and technical support for financial operations. During this time, being targeted by phishing and other cyberattacks motivated me to dive into cybersecurity, discovering my passion for penetration testing.<br><br>Now, I’m focused on Web3, aiming to merge my three worlds—finance, security, and programming—into one. This journey naturally led me to explore blockchains and DeFi, where I strive to create secure, innovative, and impactful solutions.
 
+I started my career in finance, where for 3 years I managed accounts payable and tax audits. However, my "tech DNA" spoke louder: I began developing scripts and automation to optimize repetitive financial tasks, which sparked my transition into the world of IT.
+
+After completing my degree in Information Technology, I moved into a Support Analyst role at a multinational company, managing infrastructure, tickets, and system administration. This background gave me a 360-degree view of how corporate environments and critical systems operate.
+
+Now, I am channeling all my experience into **Java Development**. My goal is to integrate high-performance engineering teams where I can merge my solid foundation in business logic, infrastructure, and security with my passion for building scalable and secure code.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1312783706007670844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/edgardvictorcf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/OEdygato) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1312783706007670844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/edgardvictorcf) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
